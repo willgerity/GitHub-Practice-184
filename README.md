@@ -57,7 +57,7 @@
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Hang Hou Cheong         | Section 001       | alyssa-hu            | <https://alyssa-hu.github.io/GitHub-Website-184/>        |  
+| Hang Hou Cheong         | Section 001       | HangHouCheong        | <https://HangHouCheong.github.io/GitHub-Website-184/>        |  
 
 # Integration of RStudio with Git
 
