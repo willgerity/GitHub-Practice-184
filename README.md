@@ -52,6 +52,7 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Alyssa Hu               | Section 001       | alyssa-hu            | <https://alyssa-hu.github.io/GitHub-Website-184/>        |  
+| Krystal Leung           | Section 001       | krystalleung         | https://krystalleung.github.io/STAT184/                  |
 | Michael Licata          | Section 001       | 20mlicata            | <https://20mlicata.github.io/STAT184Practice/>           |
 
 <br>
