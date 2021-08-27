@@ -29,7 +29,7 @@
     - (2 pts) Add your First & Last Name  
     - (2 pt)  Add your Class Section
     - (2 pts) Add your GitHub ID  
-    - (2 pts) Add your link (that you made a note of above) for the website generated from your new GitHub repo (should include "[your-userID].github.io" at the beginning)
+    - (2 pts) Add your GitHub Page website link that you made a note of above (check that it says "[your-userID].github.io" at the start of the link); look carefully at the example format and enclose the link in <> 
     - (1 pts) You must commit your changes!
         - Write a descriptive commit message (e.g. "added Alyssa Hu to class table")
         - Use the default setting of Commit directly to the `main` branch
