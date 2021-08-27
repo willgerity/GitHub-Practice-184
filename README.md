@@ -16,8 +16,8 @@
     - You should be within your new repo after you clicked "Create Repository"
     - Click "Settings" >> Click "Pages" on the left menu bar
     - Change the source to "main" and save  
+    - You should see a note that says "Your site is published at [your-link]"; make a note of this link  
     - Choose the theme that you prefer
-    - You see a note that says "Your site is published at [your-link]"; make a note of this link  
     - Modify content in the README if you like, but it's fine to use filler content provided for now  
 - Go to Alyssa's GitHub-Practice-184 repo (that generated this page)! Steps: 
     - Click the "View on GitHub" button at the top of this page that you're currently reading :) or you can go to GitHub, search for "alyssa-hu", and find the GitHub-Practice-184 repo
