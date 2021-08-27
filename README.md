@@ -55,6 +55,10 @@
 
 <br>
 
+| Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
+|:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
+| Hang Hou Cheong         | Section 001       | alyssa-hu            | <https://alyssa-hu.github.io/GitHub-Website-184/>        |  
+
 # Integration of RStudio with Git
 
 - Simplified instructions: [Data Computing eBook--Appendix: GitHub-RStudio Configuration](https://dtkaplan.github.io/DataComputingEbook/appendix-github-rstudio-configuration.html#appendix-github-rstudio-configuration)  
