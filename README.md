@@ -51,6 +51,7 @@
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
+| Alyssa Hu               | Section 001       | alyssa-hu            | https://alyssa-hu.github.io/GitHub-Website-184/|  
 
 <br>
 
