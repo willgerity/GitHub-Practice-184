@@ -58,7 +58,7 @@
 | Amy Scholl              | Section 001       | amyscholl            | <https://amyscholl.github.io/STAT184/>                   |
 | Qianxue Li              | Section 001       | QianxueLi            | <https://qianxueli.github.io/GitHub-Practice-184/>       |
 | Dani Rigazio.           | Section 001       | danirigazio          | <https://danirigazio.github.io/practice-for-stat/>         |
-
+| Guangze Liu             | Section 001       | GuangzeLiu           | <https://guangzeliu.github.io/STAT184_GITHUB_PRACTICE/>  |
 <br>
 
 
