@@ -56,7 +56,7 @@
 | Michael Licata          | Section 001       | 20mlicata            | <https://20mlicata.github.io/STAT184Practice/>           |
 | Hang Hou Cheong         | Section 001       | HangHouCheong        | <https://HangHouCheong.github.io/GitHub-Website-184/>    |
 | Amy Scholl              | Section 001       | amyscholl            | <https://amyscholl.github.io/STAT184/>                   |
-| Ziheng Yuan             | Section 001       | ziheng333            |  <https://ziheng333.github.io/Github-practice/<br>       |
+| Ziheng Yuan             | Section 001       | ziheng333            | <https://ziheng333.github.io/Github-practice/<br>       |
 
 
 # Integration of RStudio with Git
