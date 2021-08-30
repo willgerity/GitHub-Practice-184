@@ -63,8 +63,9 @@
 | Nicholas Yeganeh        | Section 001       | nickyeganeh          | <https://nickyeganeh.github.io/STAT184/>                 |
 | Weiqi Xia               | Section 001       | Umendy123            | <https://umendy123.github.io/GitHub-Pages-Assignment/> 
 | Isha Thukral            | Section 001       | ithukral             | <https://ithukral.github.io/Stat184/>                    |
-| Drew Kennedy            | Section 001       | ajk6604              | <https://ajk6604.github.io/STAT184/>                     | 
-
+| Gia Nguyen              | Section 001       | gianguyen7           | <https://gianguyen7.github.io/Github-practice/>          |
+| Boyuan Zhao             | Section 001       | Adam77777777         | <https://adam77777777.github.io/Adam/>                   |
+| Drew Kennedy            | Section 001       | ajk6604              | <https://ajk6604.github.io/STAT184/>                     |
 
 
 # Integration of RStudio with Git
