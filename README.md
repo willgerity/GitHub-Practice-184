@@ -63,7 +63,7 @@
 | Nicholas Yeganeh        | Section 001       | nickyeganeh          | <https://nickyeganeh.github.io/STAT184/>                 |
 | Weiqi Xia               | Section 001       | Umendy123            | <https://umendy123.github.io/GitHub-Pages-Assignment/> 
 | Isha Thukral            | Section 001       | ithukral             | <https://ithukral.github.io/Stat184/>                    |
-
+| Drew Kennedy            | Section 001       | ajk6604              | <https://ajk6604.github.io/STAT184/>                     | 
 
 
 
