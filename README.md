@@ -63,6 +63,7 @@
 | Nicholas Yeganeh        | Section 001       | nickyeganeh          | <https://nickyeganeh.github.io/STAT184/>                 |
 | Weiqi Xia               | Section 001       | Umendy123            | <https://umendy123.github.io/GitHub-Pages-Assignment/> 
 | Isha Thukral            | Section 001       | ithukral             | <https://ithukral.github.io/Stat184/>                    |
+| Boyuan Zhao             | Section 001       | Adam77777777         | <https://adam77777777.github.io/Adam/>                   |
 
 
 
