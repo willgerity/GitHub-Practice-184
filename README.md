@@ -62,7 +62,7 @@
 | Ziheng Yuan             | Section 001       | ziheng333            | <https://ziheng333.github.io/Github-practice/>           |
 | Nicholas Yeganeh        | Section 001       | nickyeganeh          | <https://nickyeganeh.github.io/STAT184/>                 |
 | Weiqi Xia               | Section 001       | Umendy123            | <https://umendy123.github.io/GitHub-Pages-Assignment/> 
-| Isha Thukral            | Section 001       | ithukral             | <https://ithukral.github.io/Stat184/>
+| Isha Thukral            | Section 001       | ithukral             | <https://ithukral.github.io/Stat184/>                    |
 
 
 
