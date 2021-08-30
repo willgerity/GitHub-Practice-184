@@ -67,7 +67,7 @@
 | Boyuan Zhao             | Section 001       | Adam77777777         | <https://adam77777777.github.io/Adam/>                   |
 | Drew Kennedy            | Section 001       | ajk6604              | <https://ajk6604.github.io/STAT184/>                     |
 | Thomas Hoover           | Section 001       | thoov3r.             | <https://thoov3r.github.io/STAT184/>                     |  
-
+| Wanyi Su                | Section 001       | Maxinewsu            | <https://maxinewsu.github.io/STAT-184/>                  |
 
 
 # Integration of RStudio with Git
