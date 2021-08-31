@@ -72,6 +72,7 @@
 | Nathan Thomas           | Section 001       | NThom123             | <https://nthom123.github.io/GitHubPractice/>             |
 | Krish Parikh            | Section 001       | kap6006              | <https://kap6006.github.io/Stat-184-Fall-2021/>            |  
 | YikChung Chan           | Section 001       | yikchungchan         | <https://yikchungchan.github.io/Stat-184-/>              |
+| Kevin Chen              | Section 001       | Kevin299             | https://kevin299.github.io/Stats-184/                    |
 
 # Integration of RStudio with Git
 
