@@ -80,7 +80,8 @@
 | Chunxu Wang             | Section 001       | chunxuwang           | <https://github.com/chunxuwang/Stat-184-chunxuwang/>     | 
 | Jacob Banning           | Section 001       | jkb5857              | <https://jkb5857.github.io/STAT184/>                     |
 |Edward Alco              | Section 001       | ejalco               | <https://ejalco.github.io/Stat184/>                      |
-| Jamil Alqatanani               | Section 001       | JamilAlqatanani            | <https://jamilalqatanani.github.io/GithubPractice/>        |  
+| Jamil Alqatanani        | Section 001       | JamilAlqatanani      | <https://jamilalqatanani.github.io/GithubPractice/>      |  
+| Muhammad Eri Mushthofa  | Section 001       | EriMushthofa         | <https://erimushthofa.github.io/E/>                      |
 
 # Integration of RStudio with Git
 
