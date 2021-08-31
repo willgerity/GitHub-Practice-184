@@ -69,7 +69,7 @@
 | Thomas Hoover           | Section 001       | thoov3r.             | <https://thoov3r.github.io/STAT184/>                     |  
 | Jie Zhu                 | Section 001       | Aurorazj             | <https://aurorazj.github.io/STAT184-Jie-Zhu-21fall/>     |  
 | Wanyi Su                | Section 001       | Maxinewsu            | <https://maxinewsu.github.io/STAT-184/>                  |
-
+| Nathan Thomas           | Section 001       | NThom123             | <https://nthom123.github.io/GitHubPractice/>             |
 
 
 # Integration of RStudio with Git
