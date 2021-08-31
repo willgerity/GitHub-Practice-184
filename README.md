@@ -75,6 +75,7 @@
 | Griffin Edmunds         | Section 001       | gme5130              | <https://gme5130.github.io/GME-STAT184/>                 |
 | Siddhant Singhvi        | Section 001       | SinghviSiddhant      | <https://singhvisiddhant.github.io/Siddhant-/>           |
 | Kevin Chen              | Section 001       | Kevin299             | https://kevin299.github.io/Stats-184/                    |
+| Kareem Majid            | Section 001       | kvm5928              | <https://kvm5928.github.io/Stat184/>                     |
 
 
 # Integration of RStudio with Git
