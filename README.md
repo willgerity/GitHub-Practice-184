@@ -77,7 +77,10 @@
 | Kevin Chen              | Section 001       | Kevin299             | https://kevin299.github.io/Stats-184/                    |
 | Phichchaya Sutaporn     | Section 001       | phichchaya           | https://phichchaya.github.io/Github-Practice1/           |
 | Kareem Majid            | Section 001       | kvm5928              | <https://kvm5928.github.io/Stat184/>                     |
-| Chunxu Wang             | Section 001       | chunxuwang           | <https://github.com/chunxuwang/Stat-184-chunxuwang/>      
+| Chunxu Wang             | Section 001       | chunxuwang           | <https://github.com/chunxuwang/Stat-184-chunxuwang/>     | 
+| Jacob Banning           | Section 001       | jkb5857              | <https://jkb5857.github.io/STAT184/>                     |
+
+
 # Integration of RStudio with Git
 
 - Simplified instructions: [Data Computing eBook--Appendix: GitHub-RStudio Configuration](https://dtkaplan.github.io/DataComputingEbook/appendix-github-rstudio-configuration.html#appendix-github-rstudio-configuration)  
