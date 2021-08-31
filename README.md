@@ -74,6 +74,8 @@
 | YikChung Chan           | Section 001       | yikchungchan         | <https://yikchungchan.github.io/Stat-184-/>              |
 | Griffin Edmunds         | Section 001       | gme5130              | <https://gme5130.github.io/GME-STAT184/>                 |
 | Siddhant Singhvi        | Section 001       | SinghviSiddhant      | <https://singhvisiddhant.github.io/Siddhant-/>           |
+| Kevin Chen              | Section 001       | Kevin299             | https://kevin299.github.io/Stats-184/                    |
+
 
 # Integration of RStudio with Git
 
