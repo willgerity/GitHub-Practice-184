@@ -73,6 +73,7 @@
 | Krish Parikh            | Section 001       | kap6006              | <https://kap6006.github.io/Stat-184-Fall-2021/>          |  
 | YikChung Chan           | Section 001       | yikchungchan         | <https://yikchungchan.github.io/Stat-184-/>              |
 | Griffin Edmunds         | Section 001       | gme5130              | <https://gme5130.github.io/GME-STAT184/>                 |
+| Siddhant Singhvi        | Section 001       | SinghviSiddhant      | <https://singhvisiddhant.github.io/Siddhant-/>           |
 
 # Integration of RStudio with Git
 
