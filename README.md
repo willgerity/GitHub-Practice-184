@@ -83,6 +83,12 @@
 
 # Integration of RStudio with Git
 
+# Class GitHub Table 
+
+| Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
+|:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
+| Sumedh Kabe             | Section 001       | Sumedh1551            | <https://sumedh1551.github.io/GitHub-Practice1/>        |  
+
 - Simplified instructions: [Data Computing eBook--Appendix: GitHub-RStudio Configuration](https://dtkaplan.github.io/DataComputingEbook/appendix-github-rstudio-configuration.html#appendix-github-rstudio-configuration)  
 - More detail if needed: <http://happygitwithr.com/index.html>
 
