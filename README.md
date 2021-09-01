@@ -82,6 +82,7 @@
 |Edward Alco              | Section 001       | ejalco               | <https://ejalco.github.io/Stat184/>                      |
 | Jamil Alqatanani        | Section 001       | JamilAlqatanani      | <https://jamilalqatanani.github.io/GithubPractice/>      |  
 | Muhammad Eri Mushthofa  | Section 001       | EriMushthofa         | <https://erimushthofa.github.io/E/>                      |
+| Dylan Ames              | Section 001       | dja5580              | <https://dja5580.github.io/STAT184_GitHubPractice/>      | 
 
 # Integration of RStudio with Git
 
