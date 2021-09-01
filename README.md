@@ -88,6 +88,7 @@
 | Heejun Son              | Section 001       | HeejunSon            | <https://heejunson.github.io/HeejunSon/>                 |
 | Dylan Ames              | Section 001       | dja5580              | <https://dja5580.github.io/STAT184_GitHubPractice/>      | 
 | Guilherme Lima          | Section 001       | guilhermelima21      | <https://github.com/guilhermelima21/STAT184>             |
+| Sarvar Khamidov         | Section 001       | khsarvar             | <https://khsarvar.github.io/FirstRepo/>        | 
 
 # Integration of RStudio with Git
 
