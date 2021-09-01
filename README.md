@@ -54,7 +54,7 @@
 | Alyssa Hu               | Section 001       | alyssa-hu            | <https://alyssa-hu.github.io/GitHub-Website-184/>        |  
 | Krystal Leung           | Section 001       | krystalleung         | https://krystalleung.github.io/STAT184/                  |
 | Michael Licata          | Section 001       | 20mlicata            | <https://20mlicata.github.io/STAT184Practice/>           |
-| Hang Hou Cheong         | Section 001       | HangHouCheong        | <https://HangHouCheong.github.io/GitHub-Website-184/>    |
+| Hang Hou Cheong         | Section 001       | HangHouCheong        | https://hanghoucheong.github.io/GitHub-Practice-184/     |  |
 | Amy Scholl              | Section 001       | amyscholl            | <https://amyscholl.github.io/STAT184/>                   |
 | Qianxue Li              | Section 001       | QianxueLi            | <https://qianxueli.github.io/GitHub-Practice-184/>       |
 | Dani Rigazio.           | Section 001       | danirigazio          | <https://danirigazio.github.io/practice-for-stat/>       |
@@ -91,7 +91,6 @@
 | Sarvar Khamidov         | Section 001       | khsarvar             | <https://khsarvar.github.io/FirstRepo/>        | 
 |Xinyi Wang               | Section 001       | Lydia1214            | <https://lydia1214.github.io/Lydia_Wang/>                |
 | Neeraj Thokala          | Section 001       | nrthokala            | <https://nrthokala.github.io/NeoRepo/>
-
 
 
 # Integration of RStudio with Git
