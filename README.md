@@ -79,17 +79,17 @@
 | Kareem Majid            | Section 001       | kvm5928              | <https://kvm5928.github.io/Stat184/>                     |
 | Chunxu Wang             | Section 001       | chunxuwang           | <https://github.com/chunxuwang/Stat-184-chunxuwang/>     | 
 | Jacob Banning           | Section 001       | jkb5857              | <https://jkb5857.github.io/STAT184/>                     |
+| Sumedh Kabe             | Section 001       | Sumedh1551            | <https://sumedh1551.github.io/GitHub-Practice1/>        |  
 |Edward Alco              | Section 001       | ejalco               | <https://ejalco.github.io/Stat184/>                      |
 | Jamil Alqatanani        | Section 001       | JamilAlqatanani      | <https://jamilalqatanani.github.io/GithubPractice/>      |  
 | Muhammad Eri Mushthofa  | Section 001       | EriMushthofa         | <https://erimushthofa.github.io/E/>                      |
+|Junjie He                | Section 001       | junjiehe98           | <https://junjiehe98.github.io/Junjie1/>                  |
+|suyang meng              | section 001       | albertmeng1999       | <https://albertmeng1999.github.io/albert-s-stat184/>     |
+| Heejun Son              | Section 001       | HeejunSon            | <https://heejunson.github.io/HeejunSon/>                 |
+| Dylan Ames              | Section 001       | dja5580              | <https://dja5580.github.io/STAT184_GitHubPractice/>      | 
 | Guilherme Lima          | Section 001       | guilhermelima21      | <https://github.com/guilhermelima21/STAT184>             |
+
 # Integration of RStudio with Git
-
-# Class GitHub Table 
-
-| Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
-|:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Sumedh Kabe             | Section 001       | Sumedh1551            | <https://sumedh1551.github.io/GitHub-Practice1/>        |  
 
 - Simplified instructions: [Data Computing eBook--Appendix: GitHub-RStudio Configuration](https://dtkaplan.github.io/DataComputingEbook/appendix-github-rstudio-configuration.html#appendix-github-rstudio-configuration)  
 - More detail if needed: <http://happygitwithr.com/index.html>
