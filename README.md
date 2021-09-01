@@ -83,6 +83,7 @@
 | Jamil Alqatanani        | Section 001       | JamilAlqatanani      | <https://jamilalqatanani.github.io/GithubPractice/>      |  
 | Muhammad Eri Mushthofa  | Section 001       | EriMushthofa         | <https://erimushthofa.github.io/E/>                      |
 |Junjie He                | Section 001       | junjiehe98           | <https://junjiehe98.github.io/Junjie1/>                  |
+| Neeraj Thokala          | Section 001       | nrthokala            | <https://nrthokala.github.io/NeoRepo/>
 # Integration of RStudio with Git
 
 # Class GitHub Table 
