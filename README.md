@@ -86,6 +86,8 @@
 |Junjie He                | Section 001       | junjiehe98           | <https://junjiehe98.github.io/Junjie1/>                  |
 |suyang meng              | section 001       | albertmeng1999       | <https://albertmeng1999.github.io/albert-s-stat184/>     |
 | Heejun Son              | Section 001       | HeejunSon            | <https://heejunson.github.io/HeejunSon/>                 |
+| Dylan Ames              | Section 001       | dja5580              | <https://dja5580.github.io/STAT184_GitHubPractice/>      | 
+
 
 # Integration of RStudio with Git
 
