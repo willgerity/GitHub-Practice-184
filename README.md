@@ -83,6 +83,8 @@
 | Jamil Alqatanani        | Section 001       | JamilAlqatanani      | <https://jamilalqatanani.github.io/GithubPractice/>      |  
 | Muhammad Eri Mushthofa  | Section 001       | EriMushthofa         | <https://erimushthofa.github.io/E/>                      |
 |Junjie He                | Section 001       | junjiehe98           | <https://junjiehe98.github.io/Junjie1/>                  |
+|Xinyi Wang               | Section 001       | Lydia1214            | <https://lydia1214.github.io/Lydia_Wang/>                |
+
 # Integration of RStudio with Git
 
 # Class GitHub Table 
