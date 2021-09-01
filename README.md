@@ -82,7 +82,7 @@
 |Edward Alco              | Section 001       | ejalco               | <https://ejalco.github.io/Stat184/>                      |
 | Jamil Alqatanani        | Section 001       | JamilAlqatanani      | <https://jamilalqatanani.github.io/GithubPractice/>      |  
 | Muhammad Eri Mushthofa  | Section 001       | EriMushthofa         | <https://erimushthofa.github.io/E/>                      |
-
+| Guilherme Lima          | Section 001       | guilhermelima21      | <https://github.com/guilhermelima21/STAT184>             |
 # Integration of RStudio with Git
 
 # Class GitHub Table 
