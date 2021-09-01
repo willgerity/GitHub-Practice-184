@@ -82,6 +82,7 @@
 |Edward Alco              | Section 001       | ejalco               | <https://ejalco.github.io/Stat184/>                      |
 | Jamil Alqatanani        | Section 001       | JamilAlqatanani      | <https://jamilalqatanani.github.io/GithubPractice/>      |  
 | Muhammad Eri Mushthofa  | Section 001       | EriMushthofa         | <https://erimushthofa.github.io/E/>                      |
+| Sarvar Khamidov         | Section 001       | khsarvar             | <https://khsarvar.github.io/FirstRepo/>        |  
 
 # Integration of RStudio with Git
 
