@@ -89,6 +89,8 @@
 | Dylan Ames              | Section 001       | dja5580              | <https://dja5580.github.io/STAT184_GitHubPractice/>      | 
 | Guilherme Lima          | Section 001       | guilhermelima21      | <https://github.com/guilhermelima21/STAT184>             |
 | Sarvar Khamidov         | Section 001       | khsarvar             | <https://khsarvar.github.io/FirstRepo/>        | 
+|Xinyi Wang               | Section 001       | Lydia1214            | <https://lydia1214.github.io/Lydia_Wang/>                |
+
 
 # Integration of RStudio with Git
 
