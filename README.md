@@ -90,7 +90,8 @@
 | Guilherme Lima          | Section 001       | guilhermelima21      | <https://github.com/guilhermelima21/STAT184>             |
 | Sarvar Khamidov         | Section 001       | khsarvar             | <https://khsarvar.github.io/FirstRepo/>        | 
 |Xinyi Wang               | Section 001       | Lydia1214            | <https://lydia1214.github.io/Lydia_Wang/>                |
-| Neeraj Thokala          | Section 001       | nrthokala            | <https://nrthokala.github.io/NeoRepo/>
+| Neeraj Thokala          | Section 001       | nrthokala            | <https://nrthokala.github.io/NeoRepo/>                   |
+| test entry              | test section      | testuserid           | <https://alyssa-hu.github.io/GitHub-Website-184/         |
 
 
 # Integration of RStudio with Git
