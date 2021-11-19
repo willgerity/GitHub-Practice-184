@@ -1,5 +1,5 @@
 
-# GitHub Pages Assignment
+# GitHub Pages Assignment (MERGE CONFLICT A)
 
 **(10 pts) Assignment Instructions**
 
