@@ -52,46 +52,6 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Alyssa Hu               | Section 001       | alyssa-hu            | <https://alyssa-hu.github.io/GitHub-Website-184/>        |  
-| Krystal Leung           | Section 001       | krystalleung         | https://krystalleung.github.io/STAT184/                  |
-| Michael Licata          | Section 001       | 20mlicata            | <https://20mlicata.github.io/STAT184Practice/>           |
-| Hang Hou Cheong         | Section 001       | HangHouCheong        | https://hanghoucheong.github.io/GitHub-Practice-184/     |  |
-| Amy Scholl              | Section 001       | amyscholl            | <https://amyscholl.github.io/STAT184/>                   |
-| Qianxue Li              | Section 001       | QianxueLi            | <https://qianxueli.github.io/GitHub-Practice-184/>       |
-| Dani Rigazio.           | Section 001       | danirigazio          | <https://danirigazio.github.io/practice-for-stat/>       |
-| Guangze Liu             | Section 001       | GuangzeLiu           | <https://guangzeliu.github.io/STAT184_GITHUB_PRACTICE/>  |
-| Ziheng Yuan             | Section 001       | ziheng333            | <https://ziheng333.github.io/Github-practice/>           |
-| Nicholas Yeganeh        | Section 001       | nickyeganeh          | <https://nickyeganeh.github.io/STAT184/>                 |
-| Weiqi Xia               | Section 001       | Umendy123            | <https://umendy123.github.io/GitHub-Pages-Assignment/>   |
-| Isha Thukral            | Section 001       | ithukral             | <https://ithukral.github.io/Stat184/>                    |
-| Gia Nguyen              | Section 001       | gianguyen7           | <https://gianguyen7.github.io/Github-practice/>          |
-| Boyuan Zhao             | Section 001       | Adam77777777         | <https://adam77777777.github.io/Adam/>                   |
-| Drew Kennedy            | Section 001       | ajk6604              | <https://ajk6604.github.io/STAT184/>                     |
-| Thomas Hoover           | Section 001       | thoov3r98            | <https://thoov3r.github.io/STAT184/>                     |  
-| Jie Zhu                 | Section 001       | Aurorazj             | <https://aurorazj.github.io/STAT184-Jie-Zhu-21fall/>     |  
-| Wanyi Su                | Section 001       | Maxinewsu            | <https://maxinewsu.github.io/STAT-184/>                  |
-| Nathan Thomas           | Section 001       | NThom123             | <https://nthom123.github.io/GitHubPractice/>             |
-| Krish Parikh            | Section 001       | kap6006              | <https://kap6006.github.io/Stat-184-Fall-2021/>          |  
-| YikChung Chan           | Section 001       | yikchungchan         | <https://yikchungchan.github.io/Stat-184-/>              |
-| Griffin Edmunds         | Section 001       | gme5130              | <https://gme5130.github.io/GME-STAT184/>                 |
-| Siddhant Singhvi        | Section 001       | SinghviSiddhant      | <https://singhvisiddhant.github.io/Siddhant-/>           |
-| Kevin Chen              | Section 001       | Kevin299             | https://kevin299.github.io/Stats-184/                    |
-| Phichchaya Sutaporn     | Section 001       | phichchaya           | https://phichchaya.github.io/Github-Practice1/           |
-| Kareem Majid            | Section 001       | kvm5928              | <https://kvm5928.github.io/Stat184/>                     |
-| Chunxu Wang             | Section 001       | chunxuwang           | <https://github.com/chunxuwang/Stat-184-chunxuwang/>     | 
-| Jacob Banning           | Section 001       | jkb5857              | <https://jkb5857.github.io/STAT184/>                     |
-| Sumedh Kabe             | Section 001       | Sumedh1551            | <https://sumedh1551.github.io/GitHub-Practice1/>        |  
-|Edward Alco              | Section 001       | ejalco               | <https://ejalco.github.io/Stat184/>                      |
-| Jamil Alqatanani        | Section 001       | JamilAlqatanani      | <https://jamilalqatanani.github.io/GithubPractice/>      |  
-| Muhammad Eri Mushthofa  | Section 001       | EriMushthofa         | <https://erimushthofa.github.io/E/>                      |
-|Junjie He                | Section 001       | junjiehe98           | <https://junjiehe98.github.io/Junjie1/>                  |
-|suyang meng              | section 001       | albertmeng1999       | <https://albertmeng1999.github.io/albert-s-stat184/>     |
-| Heejun Son              | Section 001       | HeejunSon            | <https://heejunson.github.io/HeejunSon/>                 |
-| Dylan Ames              | Section 001       | dja5580              | <https://dja5580.github.io/STAT184_GitHubPractice/>      | 
-| Guilherme Lima          | Section 001       | guilhermelima21      | <https://github.com/guilhermelima21/STAT184>             |
-| Sarvar Khamidov         | Section 001       | khsarvar             | <https://khsarvar.github.io/FirstRepo/>        | 
-|Xinyi Wang               | Section 001       | Lydia1214            | <https://lydia1214.github.io/Lydia_Wang/>                |
-| Neeraj Thokala          | Section 001       | nrthokala            | <https://nrthokala.github.io/NeoRepo/>                   |
-| test entry              | test section      | testuserid           | <https://alyssa-hu.github.io/GitHub-Website-184/         |
 
 
 # Integration of RStudio with Git
