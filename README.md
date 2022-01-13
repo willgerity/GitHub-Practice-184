@@ -51,7 +51,8 @@
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Thomas Hurley           | Section 001       | thurl19              | <https://thurl19.github.io/STAT184/>                     |  
+| Alyssa Hu               | Section 001       | alyssa-hu            | <https://alyssa-hu.github.io/GitHub-Website-184/>        |
+| Thomas Hurley           | Section 001       | thurl19              | <https://thurl19.github.io/STAT184/>                     |
 
 
 # Integration of RStudio with Git
