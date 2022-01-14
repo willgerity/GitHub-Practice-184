@@ -57,6 +57,7 @@
 
 
 
+
 # Integration of RStudio with Git
 
 - Simplified instructions: [Data Computing eBook--Appendix: GitHub-RStudio Configuration](https://dtkaplan.github.io/DataComputingEbook/appendix-github-rstudio-configuration.html#appendix-github-rstudio-configuration)  
