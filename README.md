@@ -53,7 +53,7 @@
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Alyssa Hu               | Section 001       | alyssa-hu            | <https://alyssa-hu.github.io/GitHub-Website-184/>        |
 | Thomas Hurley           | Section 001       | thurl19              | <https://thurl19.github.io/STAT184/>                     |
-
+| Adithya Sadagopan       | Section 001       | AdithyaS1            | <https://adithyas1.github.io/STAT184.001/>
 
 
 # Integration of RStudio with Git
