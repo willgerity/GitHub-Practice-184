@@ -53,6 +53,7 @@
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Alyssa Hu               | Section 001       | alyssa-hu            | <https://alyssa-hu.github.io/GitHub-Website-184/>        |
 | Thomas Hurley           | Section 001       | thurl19              | <https://thurl19.github.io/STAT184/>                     |
+| Yoonsung Park           | Section 001       | parkyoonsung98       | <https://parkyoonsung98.github.io/STAT184-Yoon/>         |
 
 
 
