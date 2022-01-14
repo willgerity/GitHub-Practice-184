@@ -53,7 +53,7 @@
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Alyssa Hu               | Section 001       | alyssa-hu            | <https://alyssa-hu.github.io/GitHub-Website-184/>        |
 | Thomas Hurley           | Section 001       | thurl19              | <https://thurl19.github.io/STAT184/>                     |
-
+| Maxwell Hahn            | Section 001       | mjh6831              | <https://mjh6831.github.io/STAT184/>                     |
 
 
 # Integration of RStudio with Git
