@@ -8,7 +8,7 @@
 - Sign in to your GitHub account if you have one, or follow the instructions to sign up and create your own GitHub profile/ID (make sure it's appropriate for job or grad school applications).
 - Create a new repo! Steps:
     - [Top right of webpage] >> Click on the "+" >> Click "New repository" 
-    - Enter a name for your new repo
+    - Enter a name for your new repo 
     - Keep it as a Public repo
     - Check the box that says initialize with "Add a README file"
     - Click "Create Repository"
@@ -26,10 +26,10 @@
     - Click on "README.md" >> Click on the pencil icon to edit your copy of the repo
 - **Add a row** in your copy of the table with your information! Steps: 
     - Follow the pattern for placing the vertical bar characters (the vertical bar is found above the Enter key)... use the "Alyssa Hu" row as a template
-    - (2 pts) Add your First & Last Name  
-    - (2 pt)  Add your Class Section
-    - (2 pts) Add your GitHub ID  
-    - (2 pts) Add your GitHub Page website link that you made a note of above (check that it says "[your-userID].github.io" at the start of the link); look carefully at the example format and enclose the link in <> 
+    - (2 pts) Add your First & Last Name  Jun Sung Kim
+    - (2 pt)  Add your Class Section   Section 001
+    - (2 pts) Add your GitHub ID  junsung-del
+    - (2 pts) Add your GitHub Page website link that you made a note of above (check that it says "[your-userID].github.io" at the start of the link); look carefully at the example format and enclose the link in <> https://junsung-del.github.io/STAT-184-GITHUB-practice/
     - (1 pts) You must commit your changes!
         - Write a descriptive commit message (e.g. "added Alyssa Hu to class table")
         - Use the default setting of Commit directly to the `main` branch
@@ -53,7 +53,7 @@
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Alyssa Hu               | Section 001       | alyssa-hu            | <https://alyssa-hu.github.io/GitHub-Website-184/>        |
 | Thomas Hurley           | Section 001       | thurl19              | <https://thurl19.github.io/STAT184/>                     |
-
+| JunSung Kim             | Section 001       | JunSung-del          | https://junsung-del.github.io/STAT-184-GITHUB-practice/  |  
 
 
 # Integration of RStudio with Git
