@@ -26,10 +26,10 @@
     - Click on "README.md" >> Click on the pencil icon to edit your copy of the repo
 - **Add a row** in your copy of the table with your information! Steps: 
     - Follow the pattern for placing the vertical bar characters (the vertical bar is found above the Enter key)... use the "Alyssa Hu" row as a template
-    - (2 pts) Add your First & Last Name  Jun Sung Kim
-    - (2 pt)  Add your Class Section   Section 001
-    - (2 pts) Add your GitHub ID  junsung-del
-    - (2 pts) Add your GitHub Page website link that you made a note of above (check that it says "[your-userID].github.io" at the start of the link); look carefully at the example format and enclose the link in <> https://junsung-del.github.io/STAT-184-GITHUB-practice/
+    - (2 pts) Add your First & Last Name 
+    - (2 pt)  Add your Class Section   
+    - (2 pts) Add your GitHub ID  
+    - (2 pts) Add your GitHub Page website link that you made a note of above (check that it says "[your-userID].github.io" at the start of the link); look carefully at the example format and enclose the link in <>
     - (1 pts) You must commit your changes!
         - Write a descriptive commit message (e.g. "added Alyssa Hu to class table")
         - Use the default setting of Commit directly to the `main` branch
