@@ -52,7 +52,9 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Alyssa Hu               | Section 001       | alyssa-hu            | <https://alyssa-hu.github.io/GitHub-Website-184/>        |
-| Thomas Hurley           | Section 001       | thurl19              | <https://thurl19.github.io/STAT184/>                     |
+| Thomas Hurley
+| Henry Lex               | Section 001       | hjlex1515            | https://hjlex1515.github.io/Stat184-GitHub-Practice/     |
+                  |
 
 
 
