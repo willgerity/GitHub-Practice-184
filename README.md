@@ -53,6 +53,8 @@
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Alyssa Hu               | Section 001       | alyssa-hu            | <https://alyssa-hu.github.io/GitHub-Website-184/>        |
 | Thomas Hurley           | Section 001       | thurl19              | <https://thurl19.github.io/STAT184/>                     |
+| Aaron Trader            | Section 001       | AaronTrader          | <https://aarontrader.github.io/STAT-184-GitHub-Practice/>
+| Thomas Hurley           | Section 001       | thurl19              | <https://thurl19.github.io/STAT184/>                     | 
 
 
 
