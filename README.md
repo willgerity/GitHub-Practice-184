@@ -53,6 +53,7 @@
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Alyssa Hu               | Section 001       | alyssa-hu            | <https://alyssa-hu.github.io/GitHub-Website-184/>        |
 | Thomas Hurley           | Section 001       | thurl19              | <https://thurl19.github.io/STAT184/>                     |
+| Ethan Hoang             | Section 001       | enh5142              | <https://enh5142.github.io/STAT184_GitHub_Practice/>     |
 
 
 
