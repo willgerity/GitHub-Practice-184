@@ -60,6 +60,7 @@
 | Yoonsung Park           | Section 001       | parkyoonsung98       | <https://parkyoonsung98.github.io/STAT184-Yoon/>         |
 | Aaron Trader            | Section 001       | AaronTrader          | <https://aarontrader.github.io/STAT-184-GitHub-Practice/>|
 | Justin Constant         | Section 001       | JustinC14            | <https://github.com/JustinC14/GitHub-Practice-184>       |
+| Luciana Lai             | Section 001       | lucianalai           | <https://lucianalai.github.io/STAT184-Github-Pratice/>   |
 
 
 # Integration of RStudio with Git
