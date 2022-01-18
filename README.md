@@ -55,6 +55,7 @@
 | Nikhil Melligeri        | Section 001       | nikhil-melligeri     | <https://nikhil-melligeri.github.io/stat184-github-prac/>| 
 | Ethan Leicht            | Section 001       | ethanleicht          | <https://github.com/ethanleicht/stat184-github-practice> |
 | Grant Berg              | Section 001       | GrantBerg            | <https://grantberg.github.io/STAT-184/>                  |
+| Ethan Hoang             | Section 001       | enh5142              | <https://enh5142.github.io/STAT184_GitHub_Practice/>     |
 
 
 
