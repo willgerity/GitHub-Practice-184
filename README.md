@@ -1,4 +1,3 @@
-
 # GitHub Pages Assignment
 
 **(10 pts) Assignment Instructions**
@@ -8,7 +7,7 @@
 - Sign in to your GitHub account if you have one, or follow the instructions to sign up and create your own GitHub profile/ID (make sure it's appropriate for job or grad school applications).
 - Create a new repo! Steps:
     - [Top right of webpage] >> Click on the "+" >> Click "New repository" 
-    - Enter a name for your new repo
+    - Enter a name for your new repo 
     - Keep it as a Public repo
     - Check the box that says initialize with "Add a README file"
     - Click "Create Repository"
@@ -26,10 +25,10 @@
     - Click on "README.md" >> Click on the pencil icon to edit your copy of the repo
 - **Add a row** in your copy of the table with your information! Steps: 
     - Follow the pattern for placing the vertical bar characters (the vertical bar is found above the Enter key)... use the "Alyssa Hu" row as a template
-    - (2 pts) Add your First & Last Name  
-    - (2 pt)  Add your Class Section
+    - (2 pts) Add your First & Last Name 
+    - (2 pt)  Add your Class Section   
     - (2 pts) Add your GitHub ID  
-    - (2 pts) Add your GitHub Page website link that you made a note of above (check that it says "[your-userID].github.io" at the start of the link); look carefully at the example format and enclose the link in <> 
+    - (2 pts) Add your GitHub Page website link that you made a note of above (check that it says "[your-userID].github.io" at the start of the link); look carefully at the example format and enclose the link in <>
     - (1 pts) You must commit your changes!
         - Write a descriptive commit message (e.g. "added Alyssa Hu to class table")
         - Use the default setting of Commit directly to the `main` branch
@@ -53,8 +52,23 @@
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Alyssa Hu               | Section 001       | alyssa-hu            | <https://alyssa-hu.github.io/GitHub-Website-184/>        |
 | Thomas Hurley           | Section 001       | thurl19              | <https://thurl19.github.io/STAT184/>                     |
+| Nikhil Melligeri        | Section 001       | nikhil-melligeri     | <https://nikhil-melligeri.github.io/stat184-github-prac/>| 
+| Ethan Leicht            | Section 001       | ethanleicht          | <https://github.com/ethanleicht/stat184-github-practice> |
+| Grant Berg              | Section 001       | GrantBerg            | <https://grantberg.github.io/STAT-184/>                  |
+| Ethan Hoang             | Section 001       | enh5142              | <https://enh5142.github.io/STAT184_GitHub_Practice/>     |
+| Nisarga Kadam           | Section 001       | nisargak615          | <https://nisargak615.github.io/stat184/>                 |
+| Yoonsung Park           | Section 001       | parkyoonsung98       | <https://parkyoonsung98.github.io/STAT184-Yoon/>         |
+| Aaron Trader            | Section 001       | AaronTrader          | <https://aarontrader.github.io/STAT-184-GitHub-Practice/>|
+| Justin Constant         | Section 001       | JustinC14            | <https://github.com/JustinC14/GitHub-Practice-184>       |
+| Luciana Lai             | Section 001       | lucianalai           | <https://lucianalai.github.io/STAT184-Github-Pratice/>   |
+| Maxwell Hahn            | Section 001       | mjh6831              | <https://mjh6831.github.io/STAT184/>                     |
+| Henry Lex               | Section 001       | hjlex1515            | https://hjlex1515.github.io/Stat184-GitHub-Practice/     |
+| Shrey Sharma            | Section 001       | sxs6588              | <https://sxs6588.github.io/STAT-184-SP_2022/>            |
+| Kevin Masi              | Section 001       | KatsuoSora           | <https://katsuosora.github.io/Stats/>                    |
+| Nathan Knox             | Section 001       | NathanKnox7          | <https://nathanknox7.github.io/STAT184-Github-Practice/> |
+| Adithya Sadagopan       | Section 001       | AdithyaS1            | <https://adithyas1.github.io/STAT184.001/>               |
+| JunSung Kim             | Section 001       | JunSung-del          | https://junsung-del.github.io/STAT-184-GITHUB-practice/  |  
 | Sanidhya Singh          | Section 001       | sxs6549              | <https://sunny6549.github.io/STAT184GitHubPractice/>     |
-
 
 
 
