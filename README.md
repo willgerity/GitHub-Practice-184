@@ -69,6 +69,8 @@
 | Adithya Sadagopan       | Section 001       | AdithyaS1            | <https://adithyas1.github.io/STAT184.001/>               |
 | JunSung Kim             | Section 001       | JunSung-del          | https://junsung-del.github.io/STAT-184-GITHUB-practice/  |  
 | Sanidhya Singh          | Section 001       | sxs6549              | <https://sunny6549.github.io/STAT184GitHubPractice/>     |
+| Xuan Li                 | Section 001       | LHLFOREVER           |  <https://lhlforever.github.io/STAT184-PRACTICE/>        |
+
 
 
 
