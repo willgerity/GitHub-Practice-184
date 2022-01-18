@@ -52,14 +52,13 @@
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Alyssa Hu               | Section 001       | alyssa-hu            | <https://alyssa-hu.github.io/GitHub-Website-184/>        |
 | Thomas Hurley           | Section 001       | thurl19              | <https://thurl19.github.io/STAT184/>                     |
-| Alyssa Hu               | Section 001       | alyssa-hu            | <https://alyssa-hu.github.io/GitHub-Website-Demo/>       |
-| Thomas Hurley           | Section 001       | thurl19              | <https://thurl19.github.io/STAT184/>                     |
 | Nikhil Melligeri        | Section 001       | nikhil-melligeri     | <https://nikhil-melligeri.github.io/stat184-github-prac/>| 
 | Ethan Leicht            | Section 001       | ethanleicht          | <https://github.com/ethanleicht/stat184-github-practice> |
 | Grant Berg              | Section 001       | GrantBerg            | <https://grantberg.github.io/STAT-184/>                  |
 | Ethan Hoang             | Section 001       | enh5142              | <https://enh5142.github.io/STAT184_GitHub_Practice/>     |
 | Nisarga Kadam           | Section 001       | nisargak615          | <https://nisargak615.github.io/stat184/>                 |
 | Yoonsung Park           | Section 001       | parkyoonsung98       | <https://parkyoonsung98.github.io/STAT184-Yoon/>         |
+| Aaron Trader            | Section 001       | AaronTrader          | <https://aarontrader.github.io/STAT-184-GitHub-Practice/>|
 
 
 # Integration of RStudio with Git
