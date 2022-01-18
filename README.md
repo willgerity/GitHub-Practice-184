@@ -68,6 +68,8 @@
 | Nathan Knox             | Section 001       | NathanKnox7          | <https://nathanknox7.github.io/STAT184-Github-Practice/> |
 | Adithya Sadagopan       | Section 001       | AdithyaS1            | <https://adithyas1.github.io/STAT184.001/>               |
 | JunSung Kim             | Section 001       | JunSung-del          | https://junsung-del.github.io/STAT-184-GITHUB-practice/  |  
+| Sanidhya Singh          | Section 001       | sxs6549              | <https://sunny6549.github.io/STAT184GitHubPractice/>     |
+
 
 
 # Integration of RStudio with Git
