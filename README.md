@@ -1,4 +1,3 @@
-
 # GitHub Pages Assignment
 
 **(10 pts) Assignment Instructions**
@@ -54,7 +53,7 @@
 | Alyssa Hu               | Section 001       | alyssa-hu            | <https://alyssa-hu.github.io/GitHub-Website-Demo/>        |
 | Thomas Hurley           | Section 001       | thurl19              | <https://thurl19.github.io/STAT184/>                     |
 | Nikhil Melligeri        | Section 001       | nikhil-melligeri     | <https://nikhil-melligeri.github.io/stat184-github-prac/>| 
-
+| Ethan Leicht            | Section 001       | ethanleicht          | <https://github.com/ethanleicht/stat184-github-practice> |
 
 
 
