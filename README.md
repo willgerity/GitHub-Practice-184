@@ -59,6 +59,7 @@
 | Nisarga Kadam           | Section 001       | nisargak615          | <https://nisargak615.github.io/stat184/>                 |
 | Yoonsung Park           | Section 001       | parkyoonsung98       | <https://parkyoonsung98.github.io/STAT184-Yoon/>         |
 | Aaron Trader            | Section 001       | AaronTrader          | <https://aarontrader.github.io/STAT-184-GitHub-Practice/>|
+| Justin Constant         | Section 001       | JustinC14            | <https://github.com/JustinC14/GitHub-Practice-184>       |
 
 
 # Integration of RStudio with Git
