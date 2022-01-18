@@ -59,6 +59,7 @@
 | Grant Berg              | Section 001       | GrantBerg            | <https://grantberg.github.io/STAT-184/>                  |
 | Ethan Hoang             | Section 001       | enh5142              | <https://enh5142.github.io/STAT184_GitHub_Practice/>     |
 | Nisarga Kadam           | Section 001       | nisargak615          | <https://nisargak615.github.io/stat184/>                 |
+| Yoonsung Park           | Section 001       | parkyoonsung98       | <https://parkyoonsung98.github.io/STAT184-Yoon/>         |
 
 
 # Integration of RStudio with Git
