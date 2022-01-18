@@ -62,6 +62,7 @@
 | Justin Constant         | Section 001       | JustinC14            | <https://github.com/JustinC14/GitHub-Practice-184>       |
 | Luciana Lai             | Section 001       | lucianalai           | <https://lucianalai.github.io/STAT184-Github-Pratice/>   |
 | Maxwell Hahn            | Section 001       | mjh6831              | <https://mjh6831.github.io/STAT184/>                     |
+| Henry Lex               | Section 001       | hjlex1515            | https://hjlex1515.github.io/Stat184-GitHub-Practice/     |
 
 
 # Integration of RStudio with Git
