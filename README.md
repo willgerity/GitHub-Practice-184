@@ -66,7 +66,7 @@
 | Shrey Sharma            | Section 001       | sxs6588              | <https://sxs6588.github.io/STAT-184-SP_2022/>            |
 | Kevin Masi              | Section 001       | KatsuoSora           | <https://katsuosora.github.io/Stats/>                    |
 | Nathan Knox             | Section 001       | NathanKnox7          | <https://nathanknox7.github.io/STAT184-Github-Practice/> |
-
+| Adithya Sadagopan       | Section 001       | AdithyaS1            | <https://adithyas1.github.io/STAT184.001/>               |
 
 
 # Integration of RStudio with Git
