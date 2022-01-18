@@ -61,6 +61,7 @@
 | Aaron Trader            | Section 001       | AaronTrader          | <https://aarontrader.github.io/STAT-184-GitHub-Practice/>|
 | Justin Constant         | Section 001       | JustinC14            | <https://github.com/JustinC14/GitHub-Practice-184>       |
 | Luciana Lai             | Section 001       | lucianalai           | <https://lucianalai.github.io/STAT184-Github-Pratice/>   |
+| Maxwell Hahn            | Section 001       | mjh6831              | <https://mjh6831.github.io/STAT184/>                     |
 
 
 # Integration of RStudio with Git
